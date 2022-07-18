@@ -1,3 +1,2 @@
-#Bira🍻-Bug-Tracker
-
-This app will be jira clone.
+# Bira🍻 Bug Tracker
+This app will be a Jira Clone.
